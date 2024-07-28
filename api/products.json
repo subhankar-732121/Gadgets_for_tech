@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Computers",
+      "brand": "ExampleBrand",
+      "price": 61999.99,
+      "stock": 50,
+      "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+      "image": "../images/lapi.png"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "category": "Mobiles",
+      "brand": "TechGadget",
+      "price": 40199.99,
+      "stock": 100,
+      "image": "../images/iphone.png",
+      "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "category": "Audio",
+      "brand": "SoundBeats",
+      "price": 2500,
+      "stock": 30,
+      "image": "../images/headphone.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 4,
+      "name": "Watches",
+      "category": "Wearables",
+      "brand": "FitTech",
+      "price": 3499.99,
+      "stock": 20,
+      "image": "../images/watch.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+      "id": 5,
+      "name": "Speakers",
+      "category": "Audio",
+      "brand": "SoundBeats",
+      "price": 14499.99,
+      "stock": 30,
+      "image": "../images/speakers.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 6,
+      "name": "Television",
+      "category": "Video",
+      "brand": "Samsung",
+      "price": 17999,
+      "stock": 20,
+      "image": "../images/tv.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+      "id": 7,
+      "name": "CPU",
+      "category": "Computer Accessories",
+      "brand": "HP",
+      "price": 35050,
+      "stock": 20,
+      "image": "../images/hp-cpu.png",
+      "description": "HP S01-PF2667IN i5(10th Gen) (8 GB RAM/Intel® UHD 630 Graphics/512 GB SSD Capacity/Windows 11 Home (64-bit)) Mini Tower with MS Office, water-resistant design."
+    }, {
+      "id": 8,
+      "name": "Boat-Airdopes",
+      "category": "Music",
+      "brand": "Boat",
+      "price": 1999.99,
+      "stock": 15,
+      "image": "../images/airbud.png",
+      "description": "boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Playback,Multi Point Connectivity Bluetooth Headset  (Metallic Grey, True Wireless)"
+
+    }, {
+      "id": 9,
+      "name": "Camera",
+      "category": "Camera",
+      "brand": "Cannon",
+      "price": 59999,
+      "stock": 10,
+      "image": "../images/camera.png",
+      "description": "Canon EOS R10 Mirrorless Camera Body with RF-S 18 - 45 mm f/4.5 - 6.3 IS STM Lens  (Black)."
+    }
+  ]
+  
